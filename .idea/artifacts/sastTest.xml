@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="sastTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/sastTest</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sastTest.main" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="sastTest.main/web/Web Gradle : sastTest-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>

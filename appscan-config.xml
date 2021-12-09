@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <Targets>
+    <Target path="">
+      <Exclude>org/gradle/wrapper/BootstrapMainStarter.class</Exclude>
+      <Exclude>WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar</Exclude>
+      <Exclude>org/gradle/cli/SystemPropertiesCommandLineConverter.class</Exclude>
+      <Exclude>org/gradle/cli/CommandLineConverter.class</Exclude>
+      <Exclude>org/gradle/wrapper/SystemPropertiesHandler.class</Exclude>
+      <Exclude>org/gradle/wrapper/IDownload.class</Exclude>
+      <Exclude>com/example/sasttest/CORS/CORS2.class</Exclude>
+      <Exclude>org/gradle/wrapper/ExclusiveFileAccessManager.class</Exclude>
+      <Exclude>com/example/sasttest/SSRF/SSRF.class</Exclude>
+      <Exclude>org/gradle/cli/CommandLineArgumentException.class</Exclude>
+      <Exclude>com/example/sasttest/xss/Reflected2.class</Exclude>
+      <Exclude>org/gradle/wrapper/WrapperExecutor.class</Exclude>
+      <Exclude>org/gradle/wrapper/PathAssembler.class</Exclude>
+      <Exclude>org/gradle/cli/ParsedCommandLineOption.class</Exclude>
+      <Exclude>com/example/sasttest/HelloServlet.class</Exclude>
+      <Exclude>com/example/sasttest/CORS/CORS1.class</Exclude>
+      <Exclude>org/gradle/wrapper/DownloadProgressListener.class</Exclude>
+      <Exclude>org/gradle/wrapper/Logger.class</Exclude>
+      <Exclude>com/example/sasttest/CSRF/CSRF.class</Exclude>
+      <Exclude>com/example/sasttest/CORS/CORS3.class</Exclude>
+      <Exclude>com/example/sasttest/admin/SimpleSessionAuth.class</Exclude>
+      <Exclude>org/gradle/wrapper/Download.class</Exclude>
+      <Exclude>org/gradle/cli/ProjectPropertiesCommandLineConverter.class</Exclude>
+      <Exclude>org/gradle/wrapper/GradleWrapperMain.class</Exclude>
+      <Exclude>com/example/sasttest/xss/Filtered.class</Exclude>
+      <Exclude>org/gradle/wrapper/Install.class</Exclude>
+      <Exclude>org/gradle/cli/CommandLineParser.class</Exclude>
+      <Exclude>org/gradle/cli/AbstractCommandLineConverter.class</Exclude>
+      <Exclude>org/gradle/cli/AbstractPropertiesCommandLineConverter.class</Exclude>
+      <Exclude>com/example/sasttest/xss/Reflected.class</Exclude>
+      <Exclude>WEB-INF/lib/guava-31.0.1-jre.jar</Exclude>
+      <Exclude>com/example/sasttest/admin/welcome.class</Exclude>
+      <Exclude>org/gradle/wrapper/WrapperConfiguration.class</Exclude>
+      <Exclude>org/gradle/cli/ParsedCommandLine.class</Exclude>
+      <Exclude>WEB-INF/lib/failureaccess-1.0.1.jar</Exclude>
+      <Exclude>WEB-INF/lib/owasp-java-html-sanitizer-r239.jar</Exclude>
+      <Exclude>WEB-INF/lib/error_prone_annotations-2.7.1.jar</Exclude>
+      <Exclude>org/gradle/wrapper/GradleUserHomeLookup.class</Exclude>
+      <Exclude>WEB-INF/lib/jsr305-3.0.2.jar</Exclude>
+      <Exclude>org/gradle/cli/CommandLineOption.class</Exclude>
+      <Exclude>WEB-INF/lib/checker-qual-3.12.0.jar</Exclude>
+      <Exclude>WEB-INF/lib/j2objc-annotations-1.3.jar</Exclude>
+    </Target>
+  </Targets>
+</Configuration>
